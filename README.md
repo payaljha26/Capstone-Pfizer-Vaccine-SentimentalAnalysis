@@ -1,1 +1,1 @@
-# payaljha26-Capstone-Pfizer-Vaccine-SentimentalAnalysis
+CapstoneProject-Pfizer-Vaccine-SentimentalAnalysis
